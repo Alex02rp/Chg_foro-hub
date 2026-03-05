@@ -45,5 +45,3 @@ _Para desarrollar el proyecto, utilice las siguientes herramientas:_
 * [Java 17](https://www.oracle.com/java/) - Lenguaje de programación.
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Entorno de desarrollo integrado para el desarrollo de programas informáticos.
 * [Spring Boot](https://start.spring.io/) - Herramienta que hace que el desarrollo de aplicaciones web y microservicios con Spring Framework sea más rápido y fácil.
-* **Eric Monné** - *Instructor en Alura LATAM* - [Eric](https://www.linkedin.com/in/ericmonnefo/)
-* **Victor Rodríguez** - *Desarrollador* - [Victor](https://www.linkedin.com/in/victor-manuel-rdz-l/)
